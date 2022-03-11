@@ -1,13 +1,14 @@
+# verkefni 1
 # Irure veniam deserunt excepteur
 
-Eu excepteur id pariatur velit
-Ex est eiusmod quis in tempor
-Nulla consequat in duis quis
-Ad esse sit nostrud est sit sunt
-Eiusmod tempor et fugiat
-Dolore ut velit
-Commodo occaecat
-Occaecat amet labore
+1. [Eu excepteur id pariatur velit](Eu-excepteur-id-pariatur-velit)
+3. [Ex est eiusmod quis in tempor](Ex-est-eiusmod-quis-in-tempor)
+   - [Nulla consequat in duis quis](Nulla-consequat-in-duis-quis)
+4. [Ad esse sit nostrud est sit sunt](Ad-esse-sit-nostrud-est-sit-sunt)
+   - [Eiusmod tempor et fugiat](Eiusmod-tempor-et-fugiat)
+   - [Dolore ut velit](Dolore-ut-velit)
+5. [Commodo occaecat](Commodo-occaecat)
+6.[Occaecat amet labore](Occaecat-amet-labore)
 
 ## Eu excepteur id pariatur velit
 
@@ -24,15 +25,17 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ## Ad esse sit nostrud est sit sunt
 
 | Miðja | Vinstri | Hægri | 
-|-------|---------|-------|
+|:-----:|:--------|------:|
 | 12 | 34 | 56 | 
 | tempor | et | fugiat |
 
 ### Eiusmod tempor et fugiat
-
 ```mermaid
 pie
- title tölur úr töflunni hér að ofan
+  title tölur úr töflunni hér að ofan
+  "miðja" : 12
+  "vinstri" : 34
+  "hægri" : 56
 ```
 
 ### Dolore ut velit
